@@ -1,6 +1,6 @@
 {
-  "twrp_url": "rsync://gitlab.com/OrangeFox/Manifest.git",
-  "twrp_branch": "fox_10.0",
+  "twrp_url": "https://gitlab.com/OrangeFox/sync.git",
+  "twrp_branch": "fox_11.0",
   "git_username": "lzxac",
   "git_email": "112012156+lzxac@users.noreply.github.com",
   "use_own_dt": true,
@@ -12,5 +12,5 @@
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "fox_9.0"
+  "fix_branch": "fox_11.0"
 }
