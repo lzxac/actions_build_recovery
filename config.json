@@ -1,16 +1,16 @@
 {
-  "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-9.0",
-  "git_username": "Pinkdoge",
-  "git_email": "42758990+Pinkdoge@users.noreply.github.com",
+  "twrp_url": "rsync://gitlab.com/OrangeFox/Manifest.git",
+  "twrp_branch": "fox_10.0",
+  "git_username": "lzxac",
+  "git_email": "112012156+lzxac@users.noreply.github.com",
   "use_own_dt": true,
-  "dt_url": "pinkdoge/twrp_device_huawei_kiwi",
-  "dt_branch": "android-9.0",
+  "dt_url": "color597/twrp_device_oppo_PAFM00",
+  "dt_branch": "android-11",
   "dt_remote": "github",
-  "dt_path": "device/huawei/kiwi",
-  "device_code": "kiwi",
-  "fix_product": true,
-  "fix_misscom": true,
+  "dt_path": "device/oppo/PAFM00",
+  "device_code": "PAFM00",
+  "fix_product": false,
+  "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "fox_9.0"
 }
